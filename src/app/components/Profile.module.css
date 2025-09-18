@@ -1,0 +1,12 @@
+.profileMain {
+  background-color: white;
+  color: black;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 25%;
+  height: 100vh;
+  gap: 64px;
+  padding: 32px;
+}
