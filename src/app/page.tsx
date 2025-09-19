@@ -7,6 +7,14 @@ export default function Home() {
     <div className={styles.page}>
       <Header />
       <Profile></Profile>
+      <main className={styles.main}>
+        <div className={styles.content}>
+          <h1>About Me</h1>
+        </div>
+        <div className={styles.content}>
+          <h1>Highlights</h1>
+        </div>
+      </main>
       {/* <main className={styles.main}>
         <Image
           className={styles.logo}

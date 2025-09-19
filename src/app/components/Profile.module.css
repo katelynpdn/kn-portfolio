@@ -9,4 +9,7 @@
   height: 100vh;
   gap: 64px;
   padding: 32px;
+  position: fixed;
+  top: 0;
+  z-index: 100;
 }
